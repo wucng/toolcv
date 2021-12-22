@@ -1,0 +1,2 @@
+- https://github.com/visionNoob/pytorch-darknet19
+- https://github.com/developer0hye/PyTorch-Darknet53

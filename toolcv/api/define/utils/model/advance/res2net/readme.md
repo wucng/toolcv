@@ -1,0 +1,1 @@
+- https://github.com/Res2Net/Res2Net-PretrainedModels

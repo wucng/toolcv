@@ -1,0 +1,31 @@
+# pip install prefetch_generator
+# pip install medpy
+fvcore>=0.1
+#pytorch-lightning>=1.3.8
+timm>=0.4.12
+thop>=0.0.31
+#imgaug>=0.4.0
+#Cython>=0.29.17
+#pandas
+#seaborn
+#scikit-image>=0.16.2
+#scikit-learn>=0.22.2.post1
+#opencv-contrib-python>=4.2.0.34
+#opencv-python>=4.2.0.34
+#pycocotools>=2.0
+#Pillow>=5.1.0
+#numpy>=1.18.3
+#imageio>=2.8.0
+#easydict>=1.9
+#lxml>=4.2.1
+#scipy>=1.4.1
+#tqdm>=4.45.0
+#matplotlib>=3.2.1
+#selectivesearch>=0.4
+#typing-extensions>=3.7.4.2
+#termcolor>=1.1.0
+#easydict>=1.9
+#Flask>=1.1.2
+#PyYAML>=5.3.1
+
+

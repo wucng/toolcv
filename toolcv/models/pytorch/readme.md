@@ -1,0 +1,21 @@
+- https://github.com/d-li14/ssd.pytorch
+- https://github.com/d-li14/efficientnet-lite.pytorch
+- https://github.com/d-li14/HBONet
+- https://github.com/d-li14/mobilenetv3.pytorch
+- https://github.com/d-li14/mobilenetv2.pytorch
+- https://github.com/d-li14/mobilenext.pytorch
+- https://github.com/d-li14/ghostnet.pytorch
+- https://github.com/d-li14/dgconv.pytorch
+- https://github.com/d-li14/condconv.pytorch
+- https://github.com/d-li14/octconv.pytorch
+- https://github.com/d-li14/PSConv
+- https://github.com/d-li14/DHM
+- https://github.com/d-li14/SAN
+- https://github.com/d-li14/lambda.pytorch
+- https://github.com/d-li14/regnet.pytorch
+- https://github.com/d-li14/involution
+- https://github.com/d-li14/efficientnetv2.pytorch
+
+---
+- https://github.com/Res2Net/Res2Net-PretrainedModels
+

@@ -1,0 +1,4 @@
+- https://github.com/zerollzeng/tiny-tensorrt/tree/master/plugin
+- https://github.com/NVIDIA/TensorRT/tree/master/plugin
+- https://github.com/wang-xinyu/tensorrtx
+- https://github.com/grimoire/amirstan_plugin/tree/master/src/plugin

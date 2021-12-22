@@ -1,0 +1,2 @@
+- https://hub.fastgit.org/hustvl/YOLOP
+- https://github.com/hustvl/YOLOP

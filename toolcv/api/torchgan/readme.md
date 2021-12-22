@@ -1,0 +1,2 @@
+- https://github.com/torchgan/torchgan
+- https://torchgan.readthedocs.io/en/latest/
